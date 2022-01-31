@@ -1,0 +1,26 @@
+h1 {
+    margin: 0;
+    color: #7F3FBF;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 3px 3px 3px rgb(131, 10, 10);
+   /* width: 1000px;
+   border: 10px solid rgb(200, 212, 25); */
+  }
+  
+html {
+    background-color: rgb(200, 212, 25);
+    font-family: "Lobster", Lobster;
+  }
+
+img {
+    display: block;
+    margin: 0 auto;
+  }
+
+p {
+    margin: 0;
+    color: #7F3FBF;
+    font-size: 30px;
+    text-align: center;
+  }
